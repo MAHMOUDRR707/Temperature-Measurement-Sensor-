@@ -16,6 +16,6 @@ Temperature Measurement is an android mobile application which aim to measure th
 
 ![alt text](https://i.ibb.co/10fV4dp/sss.png)
 
-
+CONVERT TO Fahrenheit
 
 ![alt text](https://i.ibb.co/dbnTbYZ/ssss.png)
