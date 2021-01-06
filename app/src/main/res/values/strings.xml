@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Temperature_Measurement</string>
+    <string name="enter">Enter</string>
+    <string name="welcome2">"            Welcome"</string>
+    <string name="username">Username</string>
+    <string name="fname">"   Enter your Name"</string>
+    <string name="temp">"TemperatureMeasure</string>
+    <string name="convert">"Convert to F "</string>
+    <string name="convert2">"Convert to C "</string>
+    <string name="M">"  Mahmoud Reda "</string>
+
+</resources>
